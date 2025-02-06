@@ -22,8 +22,4 @@ This project analyzes real estate prices and rental profitability across France 
 ## 📥 Data Sources
 1. [Rental Prices - data.gouv.fr](https://www.data.gouv.fr/fr/datasets/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2023/)
 2. [Real Estate Transactions - data.gouv.fr](https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres-geolocalisees/)
-
-## 🛠️ How to Reproduce
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/real-estate-analysis-france.git
+3. [French Cities with GPS Coordinates](https://www.data.gouv.fr/fr/datasets/villes-de-france/#/information)
