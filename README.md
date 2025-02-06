@@ -13,6 +13,7 @@ This project analyzes real estate prices and rental profitability across France 
   > *Note: This notebook was not intended for public viewing as it was not originally created for a portfolio. It is in French and may appear a bit messy.*
 - `sql/` → SQL queries for data aggregation in BigQuery
 - `report/` → Looker Studio report (PDF)
+  > *Due to dataset hosting limitations on BigQuery, the Looker Studio dashboard is provided in PDF format for viewing.*
 - `data/` → Links to datasets
 
 ## 🚀 Technologies Used
